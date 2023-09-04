@@ -1,0 +1,32 @@
+h1{
+    font-size: 600%;
+    color: navy;
+    text-align: center;
+}
+body{
+    background-color: whitesmoke;
+}
+img{ border-radius: 8px;
+    display: block;
+max-width: 20%;
+margin-left: 40%;
+margin-right: 40%;
+border-width: 100px;
+}
+.subs{ 
+    color: red;
+    
+}
+.textboxs{
+    display: inline-block;
+    color: blue;
+    border: blueviolet;
+    border-style: dotted;
+    border-width: 300%;
+    margin: 10px;
+    margin-left: 45%;
+
+}
+button{
+    display: inline;
+}
