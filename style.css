@@ -1,8 +1,15 @@
 h1{
-    font-size: 600%;
+    font-size: 400%;
     color: navy;
     text-align: center;
 }
+.flexcontainer{
+    display: inline-flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+
 body{
     background-color: whitesmoke;
 }
@@ -29,4 +36,8 @@ border-width: 100px;
 }
 button{
     display: inline;
+}
+footer{ text-align: center;
+    font-size: 150%;
+    
 }
